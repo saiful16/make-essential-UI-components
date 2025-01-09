@@ -169,6 +169,7 @@
     display: flex;
     /* max-width: 1280px; */
     width: 100%;
+    margin: 0 auto;
 }
 
 #about-us .image-box img {
@@ -182,6 +183,7 @@
     align-items: center;
     background: url(../images/social-bg.png);
     backdrop-filter: blur(10px);
+    background-size: cover;
 }
 
 #about-us .info {
